@@ -7,6 +7,8 @@ nav_order: 2
 
 # Cocoanut toffee
 
+> From my grandmother’s recipe book.
+
 ## Ingredients
 
 * 2 lbs granulated sugar

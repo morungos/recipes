@@ -7,7 +7,8 @@ nav_order: 2
 
 # Lemon marmalade
 
-> “With the Compliments of the Cambridge Electric Supply Company Ltd., to all members of the Kitchen Front Club”
+> From my grandmother's recipe book. “With the Compliments of the Cambridge 
+> Electric Supply Company Ltd., to all members of the Kitchen Front Club”
 
 ## Ingredients
 

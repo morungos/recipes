@@ -7,6 +7,8 @@ nav_order: 2
 
 # Turkish delight
 
+> From my grandmother’s recipe book.
+
 ## Ingredients
 
 * 1 oz Cox’s gelatine

@@ -9,11 +9,11 @@ nav_order: 2
 
 ## Ingredients
 
-* 250g of self raising flour, caster sugar, softened butter
-* 350g glace cherries, sultanas, and soft dried apricots
-* 225g canned pineapple in natural juice
-* 100g blanched almonds
-* 75g ground almonds
+* 250 g of self raising flour, caster sugar, softened butter
+* 350 g glace cherries, sultanas, and soft dried apricots
+* 225 g canned pineapple in natural juice
+* 100 g blanched almonds
+* 75 g ground almonds
 * Fine zest of 2 lemons
 * 5 large eggs
 

@@ -9,10 +9,10 @@ nav_order: 2
 
 ## Ingredients
 
-* 12oz plain flour
-* 6oz treacle
-* 4oz brown sugar
-* 4oz butter
+* 12 oz plain flour
+* 6 oz treacle
+* 4 oz brown sugar
+* 4 oz butter
 * 2 tsp mixed spice
 * 2 tsp ground ginger
 * 4 chunks of stem ginger, chopped
