@@ -21,5 +21,5 @@ nav_order: 2
 Peel thinly and shred the lemons. Remove pith and pips, place in muslin and tie. 
 Leave juice, lemon peel and water with pips etc. overnight if possible. Boil 
 steadily for 2 hours or until thick, then weigh the liquid. To each pint of 
-liquid add a pound of sugar and boil for 20 minutes. Remove, allow to cool 
+liquid add a pound of sugar and boil for 20 minutes. Remove -- allow to cool 
 slightly, then pot and seal. 
