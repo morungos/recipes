@@ -18,4 +18,4 @@ nav_order: 2
 
 ## Method
 
-Boil for 5 mins, then bake for 1/2 hour at 350°F (Regulo 4)
+Boil for 5 mins, then bake for ½ hour at 350°F (Regulo 4)

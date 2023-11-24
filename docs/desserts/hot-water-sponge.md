@@ -10,12 +10,12 @@ nav_order: 3
 ## Ingredients
 
 * 8 oz self-raising flour 
-* 2 1/2 oz melted marg
+* 2 ½ oz melted marg
 * 1 teacup hot water (10 tablespoons)
 * 2 oz sugar 
 * 1 tablespoon syrup
 * 1 oz cocoa
-* 1/2 tsp bicarbonate of soda
+* ½ tsp bicarbonate of soda
 
 ## Method
 

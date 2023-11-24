@@ -14,7 +14,7 @@ nav_order: 2
 * 1 lb self-raising flour
 * 2 tbs syrup
 * 2 tbs extract of malt
-* 3/4 cup sugar
+* ¾ cup sugar
 * Raisins or sultanas
 * 1 egg spoon of bicarb
 * Milk to mix (a cup)
@@ -24,4 +24,4 @@ nav_order: 2
 Warm malt and syrup.
 Mix all dry ingredients.
 Add malt, syrup, milk, raisins and sultanas, enough milk to a soft consistency.
-Bake in a fairly slow oven (Regulo 2) for about 1 1/2 hours.
+Bake in a fairly slow oven (Regulo 2) for about 1½ hours.

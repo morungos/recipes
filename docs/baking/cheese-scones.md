@@ -23,7 +23,7 @@ nav_order: 2
 Mix the flour and margarine until the mixture is like fine breadcrumbs.
 Stir in most of the cheese, but set aside some for topping.
 Add the salt and pepper.
-Mix the egg with 3/4 of the milk.
+Mix the egg with ¾ of the milk.
 Mix with the dry ingredients until a dough forms.
 Divide into balls, flatten, top with a little milk and cheese.
 Bake in a preheated oven at 170°C for 10-15 minutes.

@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Ingredients
 
-* 3/4 lb flour
+* ¾ lb flour
 * 1 tea cup milk
 * 4 eggs
 * 6 oz butter

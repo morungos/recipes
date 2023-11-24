@@ -11,7 +11,7 @@ This works particularly well stirred into a little yoghurt.
 
 ## Ingredients
 
-* 4 lbs vegetable marrow, peeled, flesh cut into 1/2 inch cubes
+* 4 lbs vegetable marrow, peeled, flesh cut into ½ inch cubes
 * 4 lbs sugar
 * 2 oz root ginger
 * 3 lemons

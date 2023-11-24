@@ -18,13 +18,13 @@ This recipe makes 24 butteries.
 
 ## Ingredients
 
-* 1 and 1/2 lbs (700g) flour
+* 1½ lbs (700g) flour
 * 8 oz (250g) lard or white fat
 * 8 oz (250g) butter
 * Salt: 1 level tablespoon plus 1 level teaspoon
 * Caster sugar: 1 level tablespoon plus 1 level teaspoon
 * 1 level tablespoon of dried yeast
-* 1/2 pt of tepid water
+* ½ pt of tepid water
 
 ## Method
 

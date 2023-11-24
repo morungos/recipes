@@ -13,9 +13,9 @@ nav_order: 2
 ## Ingredients
 
 * 12 oz flour
-* 1/2 lb fruit
-* 1/2 lb sugar, or more
-* 1/2 pint water
+* ½ lb fruit
+* ½ lb sugar, or more
+* ½ pint water
 * 1 tsp bicarbonate of soda
 * 1 tsp spice
 * 2 oz lard

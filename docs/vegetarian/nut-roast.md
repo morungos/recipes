@@ -13,7 +13,7 @@ nav_order: 2
 * 1 oz butter, margarine, or olive oil
 * 8 oz mixed nuts and seeds, e.g., peanuts, cashews, walnuts, almonds
 * 4 oz wholemeal bread
-* 1/2 pt vegetable stock
+* ½ pt vegetable stock
 * 2 tsp dried neast
 * 1 tsp mixed herbs
 * Salt and epper to taste

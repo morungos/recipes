@@ -12,7 +12,7 @@ nav_order: 2
 ## Ingredients
 
 * 1 lb cocoanut
-* 1/2 lb sugar
+* ½ lb sugar
 * 4 eggs
 * Chopped pine kernels for topping
 

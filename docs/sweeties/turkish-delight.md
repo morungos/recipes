@@ -12,9 +12,9 @@ nav_order: 2
 ## Ingredients
 
 * 1 oz Cox’s gelatine
-* 3/4 tsp tartaric acid
-* 1/2 teacup cold water
-* 3/4 cup boiling water
+* ¾ tsp tartaric acid
+* ½ teacup cold water
+* ¾ cup boiling water
 * 1 tsp vanilla
 * Lemon juice
 * A little colouring

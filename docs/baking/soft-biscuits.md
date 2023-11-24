@@ -9,15 +9,15 @@ nav_order: 2
 
 ## Ingredients
 
-* 700g strong white flour (1 1/2 lbs)
+* 700g strong white flour (1 ½ lbs)
 * 1 level tablespoon salt
 * 2 level teaspoonds dried yeast
 * 15 fl oz hand hot water
-* 1/2 (10g) butter
+* ½ (10g) butter
 
 **Amended**
 
-Add 4 1/2 oz melted butter, and 1 tbsp sugar, to the dough
+Add 4 ½ oz melted butter, and 1 tbsp sugar, to the dough
 
 ## Method
 

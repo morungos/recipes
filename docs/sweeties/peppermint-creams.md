@@ -17,7 +17,7 @@ nav_order: 2
 
 ## Method
 
-Mix well and roll out to 1/4 inch thickness. Cut in small rounds and 
+Mix well and roll out to ¼ inch thickness. Cut in small rounds and 
 spread on sheets of paper to set in a refrigerator. Ready the next day. 
 
 **Note**:  Please don’t use raw eggs for this recipe. Either use 

@@ -13,12 +13,12 @@ delicious.
 
 ## Ingredients
 
-* 7 1/2 lb "scrudge" (crabapple leftovers)
-* 1/2 pt water
+* 7 ½ lb "scrudge" (crabapple leftovers)
+* ½ pt water
 * 2 lbs ontions, chopped
 * 1 lb raisins
 * 12 oz soft brown sugar
-* 1 1/2 pt vinegar
+* 1 ½ pt vinegar
 * 2 dessert spoons of ground ginger
 * 2 tablespoons of ground all spice
 

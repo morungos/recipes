@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Ingredients
 
-* 2 1/2 oz margarine
+* 2 ½ oz margarine
 * 8 oz self raising flour
 * Salt
 * Cold water
@@ -21,5 +21,5 @@ Roll out and fold into three, give half a turn, repeat three times.
 Last time roll out very thinly.
 Cut into squares and prick with a fork.
 Bake for 8 minutes, hot oven 450°F or No. 7 or 8. 
-Cool and then return to oven 250°F, or 1/4. 
+Cool and then return to oven 250°F, or ¼. 
 Second bake gives the extra crispness.

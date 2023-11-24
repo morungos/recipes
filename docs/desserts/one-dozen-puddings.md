@@ -11,10 +11,10 @@ nav_order: 2
 
 * 6 oz flour 
 * 3 oz sugar 
-* 2 1/2 oz margarine
+* 2 ½ oz margarine
 * 1 good tsp baking powder
 * 1 egg
-* 1/2 teacup of milk
+* ½ teacup of milk
 
 ## 1. Basic version
 

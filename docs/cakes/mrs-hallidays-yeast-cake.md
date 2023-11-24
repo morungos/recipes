@@ -12,11 +12,11 @@ nav_order: 2
 ## Ingrediemts
 
 * 1 lb flour
-* 1/2 lb margarine
-* 1/2 lb sultanas
+* ½ lb margarine
+* ½ lb sultanas
 * 1 oz yeast
-* 1/2 lb sugar
-* 1/2 lb currants
+* ½ lb sugar
+* ½ lb currants
 * 2 oz peel
 * 1 tsp bicarbonate of soda
 

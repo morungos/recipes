@@ -15,7 +15,7 @@ nav_order: 2
 * 8 oz sugar
 * 4 oz butter
 * 2 oz walnuts
-* 1/2 oz baking powder (1 tsp)
+* ½ oz baking powder (1 tsp)
 * Milk if necessary
 * 3 eggs
 * Vanilla
@@ -24,4 +24,4 @@ nav_order: 2
 
 Cream butter and sugar.
 Add eggs.
-Bake around 1 1/2 hours.
+Bake around 1 ½ hours.

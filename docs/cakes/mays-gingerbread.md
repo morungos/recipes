@@ -17,7 +17,7 @@ nav_order: 2
 * 2 tsp ground ginger
 * 4 chunks of stem ginger, chopped
 * 2 eggs
-* 1/4 pt milk
+* ¼ pt milk
 * 1 tsp bicarbonate of soda
 
 ## Method

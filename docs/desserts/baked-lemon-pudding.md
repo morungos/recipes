@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Ingredients
 
-* 1/2 oz butter
+* ½ oz butter
 * 6 oz sugar
 * 6 fl oz milk
 * 1 egg
