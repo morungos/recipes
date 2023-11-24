@@ -28,4 +28,4 @@ This recipe makes 24 butteries.
 
 ## Method
 
-Bake at gas mark 6-7, 425F, for 15 mins.
+Bake at gas mark 6-7, 425˚F, for 15 mins.
