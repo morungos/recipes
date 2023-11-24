@@ -7,6 +7,8 @@ nav_order: 2
 
 # Ribbon cake
 
+> From my grandmother’s recipe book.
+
 ## Ingredients
 
 * 3/4 lb flour

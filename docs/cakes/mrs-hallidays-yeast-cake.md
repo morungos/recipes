@@ -7,6 +7,8 @@ nav_order: 2
 
 # Mrs Halliday's yeast cake
 
+> From my grandmother’s recipe book.
+
 ## Ingrediemts
 
 * 1 lb flour
