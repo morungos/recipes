@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Walnut cake
-parent: Baking
+parent: Cakes
 nav_order: 2
 ---
 

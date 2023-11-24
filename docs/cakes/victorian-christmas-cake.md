@@ -26,6 +26,6 @@ Mix all the fruit together.
 Beat the flour, sugar, and butter for one minute, fold in the fruit
 and nuts. Level the surface and decorate. 
 
-Bake for 2 hours at 150ºC, longer if needed. Cover loosely with
+Bake for 2 hours at 150°C, longer if needed. Cover loosely with
 foil afer one hour. Cool in the tin for the first 30 mins.
 Use almonds, cherries, and 100g sifted icing sugar to decorate. 

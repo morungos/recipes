@@ -20,4 +20,4 @@ Put the fruit with sugar and very little water into a fairly large pie dish.
 Sieve the flour, run in the fat, mix in sugar. Sprinkle crumbs over the
 fruit, pressing down. 
 
-Bake at Regulo 4, 375ºF, for about 25 minutes.
+Bake at Regulo 4, 375°F, for about 25 minutes.

@@ -30,7 +30,7 @@ Add the chopped mushrooms and cook for another 5 min. Mix in the lentils,
 white pepper, and nutmeg. Add the pinhead oats, nutritional yeast, and 
 vegetarian stock, and cook for 15 mins. It should get thick and sticky, 
 but add more water if needed. Turn off the heat and mix in the chopped 
-sunflower seeds. Put in a pan, bake in a preheated oven at 360ºF (180ºC) 
+sunflower seeds. Put in a pan, bake in a preheated oven at 360°F (180°C) 
 for 30 mins. To crisp up, turn heat up for the last few minutes. Allow 
 to stand for 5 mins, serve with tatties and baked beans. 
 
