@@ -33,6 +33,6 @@ the method is significantly abbreviated, or even entirely absent.
 
 Note that oven temperatures in many of these recipes uses the "Regulo" or "gas mark" scale,
 and some of the older ones are even more informal than that. 
-[See this chart for oven temperature conversions.](./temperatures/)
+[See this chart for oven temperature conversions.](./temperatures)
 
-[Also, some UK volume measures are significantly different to American ones.](./measures/)
+[Also, some UK volume measures are significantly different to American ones.](./measures)
