@@ -16,7 +16,7 @@ This recipe makes 8 baps.
 * 1 tsp sugar
 * 30g white vegetable shortening
 * 500g white flour
-* 1 1/2 instant yeast 
+* 1 1/2 tsp instant yeast 
 
 ## Method
 
