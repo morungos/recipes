@@ -24,7 +24,7 @@ of these recipes have been tested, for several reasons: first, I'm actually vege
 I don't eat meat anyway; and second, some of the ingredients are almost impossible to
 get today. One example of this is "Protose" -- an early vegetarian meat substitute
 made primarily from peanuts and wheat gluten -- but there are several others. And a 
-frw ingredients, such as malt extract and golden syrup, are distinctively European enough
+few ingredients, such as malt extract and golden syrup, are distinctively European enough
 that they can be hard to find in North America. 
 
 As is usual in British recipes, especially until recently, the recipes themselves
